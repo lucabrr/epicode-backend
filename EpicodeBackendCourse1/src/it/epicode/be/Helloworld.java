@@ -52,6 +52,7 @@ public static void main (String[] args){
 			System.out.print("Inserisci il tuo luogo di nascita: ");
 			String luogoDiNascita = sc.nextLine();	
 			System.out.println("Ciao"+ " "+ nome + " " + cognome +" " + "sei nato a " + luogoDiNascita);
+			sc.close();
 		}
 }
 		
