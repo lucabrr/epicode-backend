@@ -10,17 +10,12 @@ public static void main (String[] args){
 		System.out.println( concat("ci","ao"));
 		System.out.println( perimetroRet(13.7 , 10.4));
 		System.out.println( pariDispari(10));
+		scan();
 		
 		
 		
-		Scanner sc = new Scanner(System.in);
-		System.out.print("Inserisci il tuo nome: ");
-		String nome = sc.nextLine();
-		System.out.print("Inserisci il tuo cognome: ");
-		String cognome = sc.nextLine();
-		System.out.print("Inserisci il tuo luogo di nascita: ");
-		String luogoDiNascita = sc.nextLine();	
-		System.out.println("Ciao"+ " "+ nome + " " + cognome +" " + "sei nato a " + luogoDiNascita);
+		
+		
 		
 		
 		
@@ -47,6 +42,16 @@ public static void main (String[] args){
 			}
 		
 		
+		}
+		public static void scan() {
+			Scanner sc = new Scanner(System.in);
+			System.out.print("Inserisci il tuo nome: ");
+			String nome = sc.nextLine();
+			System.out.print("Inserisci il tuo cognome: ");
+			String cognome = sc.nextLine();
+			System.out.print("Inserisci il tuo luogo di nascita: ");
+			String luogoDiNascita = sc.nextLine();	
+			System.out.println("Ciao"+ " "+ nome + " " + cognome +" " + "sei nato a " + luogoDiNascita);
 		}
 }
 		
