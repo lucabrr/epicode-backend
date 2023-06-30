@@ -3,9 +3,7 @@ package com.epicode.progetto;
 public class RegistrazioneAudio extends ElementoMultimediale implements IVolume {
 	
 
-	int volume = 5;
-	private final int MAXVOLUME = 10;
-	private final int MINVOLUME = 0;
+	static int  volume = 5;
 	int durata;
 	
 	public RegistrazioneAudio(String titolo, int _durata){

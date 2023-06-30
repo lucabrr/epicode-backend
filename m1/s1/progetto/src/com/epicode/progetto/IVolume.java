@@ -1,9 +1,10 @@
 package com.epicode.progetto;
 
 public interface IVolume {
- 
- void alzaVolume();
- void abbassaVolume();
+int MAXVOLUME = 10;
+int MINVOLUME = 0;
+void alzaVolume();
+void abbassaVolume();
  
 
 
