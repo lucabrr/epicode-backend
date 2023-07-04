@@ -1,0 +1,26 @@
+14:49:27.270 [main] INFO  com.epicode.esercizio1.MainProject - parole distinteciao
+14:49:27.276 [main] INFO  com.epicode.esercizio1.MainProject - parole distintehello
+14:49:27.276 [main] INFO  com.epicode.esercizio1.MainProject - numero parole distinte : 2
+14:50:14.878 [main] INFO  com.epicode.esercizio1.MainProject - parole distinte :tutto
+14:50:14.883 [main] INFO  com.epicode.esercizio1.MainProject - parole distinte :ciao
+14:50:14.884 [main] INFO  com.epicode.esercizio1.MainProject - parole distinte :hello
+14:50:14.884 [main] INFO  com.epicode.esercizio1.MainProject - parole distinte :fatto
+14:50:14.884 [main] INFO  com.epicode.esercizio1.MainProject - parole doppie ciao
+14:50:14.884 [main] INFO  com.epicode.esercizio1.MainProject - numero parole distinte : 4
+15:47:09.215 [main] INFO  com.epicode.esercizio2.MainProject - [8, 8, 4, 7, 2]
+15:47:15.577 [main] INFO  com.epicode.esercizio2.MainProject - [9, 3, 2, 5, 5]
+15:47:24.403 [main] INFO  com.epicode.esercizio2.MainProject - [39, 17, 12, 43, 56]
+15:47:25.486 [main] INFO  com.epicode.esercizio2.MainProject - [35, 26, 69, 13, 66]
+15:47:26.357 [main] INFO  com.epicode.esercizio2.MainProject - [22, 52, 12, 24, 24]
+15:47:27.220 [main] INFO  com.epicode.esercizio2.MainProject - [57, 16, 17, 81, 35]
+15:59:54.132 [main] INFO  com.epicode.esercizio2.MainProject - [55, 86, 1, 42, 91]
+15:59:54.136 [main] INFO  com.epicode.esercizio2.MainProject - [45, 72, 92, 67, 65, 39]
+16:00:44.585 [main] INFO  com.epicode.esercizio2.MainProject - [40, 24, 87, 48, 98]
+16:00:44.588 [main] INFO  com.epicode.esercizio2.MainProject - [84, 28, 22, 0, 69, 35]
+16:00:44.589 [main] INFO  com.epicode.esercizio2.MainProject - [35, 69, 0, 22, 28, 84]
+16:13:26.646 [main] INFO  com.epicode.esercizio2.MainProject - [57, 66, 68, 63, 51]
+16:13:26.649 [main] INFO  com.epicode.esercizio2.MainProject - [73, 89, 62, 86, 6, 68, 71, 23, 21, 43]
+16:13:26.649 [main] INFO  com.epicode.esercizio2.MainProject - [43, 21, 23, 71, 68, 6, 86, 62, 89, 73]
+16:13:35.657 [main] INFO  com.epicode.esercizio2.MainProject - [49, 27, 8, 9, 39]
+16:13:35.660 [main] INFO  com.epicode.esercizio2.MainProject - [10, 31, 2, 92, 28, 95, 29, 83, 27, 53]
+16:13:35.660 [main] INFO  com.epicode.esercizio2.MainProject - [53, 27, 83, 29, 95, 28, 92, 2, 31, 10]
