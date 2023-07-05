@@ -1,0 +1,43 @@
+15:01:05.153 [Thread-1] INFO  com.epicode.esercizio1.Thread1 - #
+15:01:05.153 [Thread-0] INFO  com.epicode.esercizio1.Thread1 - *
+15:01:06.162 [Thread-0] INFO  com.epicode.esercizio1.Thread1 - *
+15:01:06.162 [Thread-1] INFO  com.epicode.esercizio1.Thread1 - #
+15:01:07.175 [Thread-1] INFO  com.epicode.esercizio1.Thread1 - #
+15:01:07.176 [Thread-0] INFO  com.epicode.esercizio1.Thread1 - *
+15:01:08.189 [Thread-1] INFO  com.epicode.esercizio1.Thread1 - #
+15:01:08.189 [Thread-0] INFO  com.epicode.esercizio1.Thread1 - *
+15:01:09.203 [Thread-0] INFO  com.epicode.esercizio1.Thread1 - *
+15:01:09.204 [Thread-1] INFO  com.epicode.esercizio1.Thread1 - #
+15:01:10.215 [Thread-0] INFO  com.epicode.esercizio1.Thread1 - *
+15:01:10.215 [Thread-1] INFO  com.epicode.esercizio1.Thread1 - #
+15:01:11.222 [Thread-0] INFO  com.epicode.esercizio1.Thread1 - *
+15:01:11.237 [Thread-1] INFO  com.epicode.esercizio1.Thread1 - #
+15:01:12.235 [Thread-0] INFO  com.epicode.esercizio1.Thread1 - *
+15:01:12.250 [Thread-1] INFO  com.epicode.esercizio1.Thread1 - #
+15:01:13.244 [Thread-0] INFO  com.epicode.esercizio1.Thread1 - *
+15:01:13.260 [Thread-1] INFO  com.epicode.esercizio1.Thread1 - #
+15:01:14.258 [Thread-0] INFO  com.epicode.esercizio1.Thread1 - *
+15:01:14.274 [Thread-1] INFO  com.epicode.esercizio1.Thread1 - #
+16:00:50.558 [Thread-1] INFO  c.epicode.esercizio2.PrimaPartizione - prima partizione = 4979
+16:04:50.287 [Thread-1] INFO  c.epicode.esercizio2.PrimaPartizione - prima partizione = 4997
+16:05:02.352 [Thread-1] INFO  c.epicode.esercizio2.PrimaPartizione - prima partizione = 4997
+16:05:42.616 [Thread-1] INFO  c.epicode.esercizio2.PrimaPartizione - prima partizione = 4870
+16:06:11.775 [Thread-1] INFO  c.epicode.esercizio2.PrimaPartizione - prima partizione = 5049
+16:06:52.312 [Thread-1] INFO  c.epicode.esercizio2.PrimaPartizione - prima partizione = 4882
+16:06:55.356 [Thread-1] INFO  c.epicode.esercizio2.PrimaPartizione - prima partizione = 5041
+16:06:57.273 [Thread-1] INFO  c.epicode.esercizio2.PrimaPartizione - prima partizione = 5034
+16:06:58.298 [Thread-1] INFO  c.epicode.esercizio2.PrimaPartizione - prima partizione = 4884
+16:06:59.174 [Thread-1] INFO  c.epicode.esercizio2.PrimaPartizione - prima partizione = 4789
+16:07:02.011 [Thread-1] INFO  c.epicode.esercizio2.PrimaPartizione - prima partizione = 4914
+16:16:31.555 [Thread-1] INFO  c.epicode.esercizio2.PrimaPartizione - prima partizione = 4914
+16:16:31.555 [Thread-2] INFO  c.epicode.esercizio2.PrimaPartizione - seconda partizione = 4968
+16:16:31.555 [Thread-3] INFO  c.epicode.esercizio2.PrimaPartizione - terza  partizione = 5080
+16:19:12.683 [Thread-2] INFO  c.epicode.esercizio2.PrimaPartizione - seconda partizione = 5120
+16:19:12.684 [Thread-3] INFO  c.epicode.esercizio2.PrimaPartizione - terza  partizione = 4990
+16:19:12.684 [Thread-1] INFO  c.epicode.esercizio2.PrimaPartizione - prima partizione = 4888
+16:22:29.611 [Thread-1] INFO  c.epicode.esercizio2.PrimaPartizione - prima partizione = 5002
+16:22:29.623 [Thread-2] INFO  c.epicode.esercizio2.PrimaPartizione - seconda partizione = 4887
+16:22:29.623 [Thread-3] INFO  c.epicode.esercizio2.PrimaPartizione - terza  partizione = 5021
+16:22:44.503 [Thread-3] INFO  c.epicode.esercizio2.PrimaPartizione - terza  partizione = 4761
+16:22:44.503 [Thread-1] INFO  c.epicode.esercizio2.PrimaPartizione - prima partizione = 4992
+16:22:44.503 [Thread-2] INFO  c.epicode.esercizio2.PrimaPartizione - seconda partizione = 4829
