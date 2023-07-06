@@ -24,8 +24,5 @@ public class MainProject {
 		System.out.print(sommaPartizioni);
 		
 	}
-	public static int partizione1 = PrimaPartizione.primaPartizione;
-	public static int partizione2 = SecondaPartizione.secondaPartizione;
-	public static int partizione3 = TerzaPartizione.terzaPartizione;
-	static int sommaPartizioni = partizione1 + partizione2 + partizione3;
+	
 }
