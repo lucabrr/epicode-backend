@@ -18,7 +18,7 @@ public class Rivista  extends Catalogo  {
 
 	@Override
 	public String toString() {
-		return "Rivista [periodicita=" + periodicita + ", codiceISBM=" + codiceISBM + ", titolo=" + titolo
+		return "[tipo=Rivista, periodicita=" + periodicita + ", codiceISBM=" + codiceISBM + ", titolo=" + titolo
 				+ ", annoPubblicazione=" + annoPubblicazione + ", numeroPagine=" + numeroPagine + "]";
 	}
 

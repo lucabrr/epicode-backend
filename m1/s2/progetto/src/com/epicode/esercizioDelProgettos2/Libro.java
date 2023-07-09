@@ -29,7 +29,7 @@ public class Libro extends Catalogo{
 
 	@Override
 	public String toString() {
-		return "Libro [Autore=" + Autore + ", Genere=" + Genere + ", codiceISBM=" + codiceISBM + ", titolo=" + titolo
+		return "[tipo=Libro, Autore=" + Autore + ", Genere=" + Genere + ", codiceISBM=" + codiceISBM + ", titolo=" + titolo
 				+ ", annoPubblicazione=" + annoPubblicazione + ", numeroPagine=" + numeroPagine + "]";
 	}
 

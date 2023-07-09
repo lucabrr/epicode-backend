@@ -47,8 +47,61 @@ static	File file = new File("doc/file.txt");
 		ricerca(arrCatalogo, "Nikita");
 		ricerca(arrCatalogo, "peterpan");
 		convertiEsalva(arrCatalogo);
+		String stringaDaFile = leggiFile();
+		Set<Catalogo> arrCatalogoDaFile = new HashSet<Catalogo>();
+		convertiInArray(stringaDaFile, arrCatalogoDaFile);
+		for(Catalogo elemento : arrCatalogoDaFile) {
+			System.out.println(" dall array del file" + elemento);}
+		
+		
+		
+	
+		
+		
 		
 	}
+	static void convertiInArray(String fileTesto, Set<Catalogo> arrCatalogoDaFile) {
+	    String[] elementi = fileTesto.split("#");
+	    for(String x : elementi) {
+	    	System.out.println("provaaaaaaaa"+x);
+	    }
+	    
+	    
+	    for (String elemento : elementi) {
+	        String[] attributi = elemento.split(",");
+	        String tipo = attributi[0];
+	        if(tipo.contains("Libro")) {
+	        	String autore = attributi[1].substring(8);
+	        	String genere = attributi[2].substring(8);
+	        	String codice = attributi[3].substring(12);
+	        	String titolo = attributi[4].substring(8);
+	        	int anno = Integer.parseInt(attributi[5].substring(19));
+	        	int nPagine = Integer.parseInt(attributi[6]
+	        							.replace("]","")
+	        							.substring(14));
+	        	
+	        	System.out.println(autore +" "+ genere+" "+ codice+" "+ titolo+" "+ anno+" "+ nPagine);
+	        	arrCatalogoDaFile.add(new Libro(codice, titolo, anno, nPagine, autore, genere));
+	        }
+	        else {
+	        	Periodicita periodicita = Periodicita.valueOf( attributi[1].substring(13));
+	        	String codice = attributi[2].substring(12);
+	        	String titolo = attributi[3].substring(8);
+	        	int anno = Integer.parseInt(attributi[4].substring(19));
+	        	int nPagine = Integer.parseInt(attributi[5]
+						.replace("]","")
+						.substring(14));
+	        	System.out.println(periodicita+" "+codice+" "+anno+" "+nPagine);
+	        	arrCatalogoDaFile.add(new Rivista(codice, titolo, anno, nPagine, periodicita));
+	        }
+	        }
+	        
+	      
+	}
+		
+		
+		
+	
 	
 	
 	
@@ -103,7 +156,17 @@ static	File file = new File("doc/file.txt");
 			e.printStackTrace();
 		}
 	}
-	
+	static  String leggiFile() {
+	String testoDaRicevere = "";
+	try {
+		testoDaRicevere = FileUtils.readFileToString(file, "UTF-8");
+	} catch (IOException e) {
+		// TODO Auto-generated catch block
+		e.printStackTrace();
+	}
+	//System.out.println(testoDaRicevere);
+	return testoDaRicevere;
+	}
 	
 
 }

@@ -48,7 +48,7 @@ public abstract class Catalogo {
 
 	@Override
 	public String toString() {
-		return "Catalogo [codiceISBM=" + codiceISBM + ", titolo=" + titolo + ", annoPubblicazione=" + annoPubblicazione
+		return "[tipo=Catalogo, codiceISBM=" + codiceISBM + ", titolo=" + titolo + ", annoPubblicazione=" + annoPubblicazione
 				+ ", numeroPagine=" + numeroPagine + "]";
 	}
 	
