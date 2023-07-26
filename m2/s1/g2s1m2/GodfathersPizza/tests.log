@@ -1,0 +1,63 @@
+15:19:18.535 [restartedMain] INFO  c.e.G.GodfathersPizzaApplication - Starting GodfathersPizzaApplication using Java 17.0.7 with PID 9428 (C:\Users\Luca\eclipse-workspace\m2\s1\g2s1m2\GodfathersPizza\target\classes started by Luca in C:\Users\Luca\eclipse-workspace\m2\s1\g2s1m2\GodfathersPizza)
+15:19:18.537 [restartedMain] INFO  c.e.G.GodfathersPizzaApplication - No active profile set, falling back to 1 default profile: "default"
+15:19:18.558 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+15:19:18.791 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+15:19:18.801 [restartedMain] INFO  c.e.G.GodfathersPizzaApplication - Started GodfathersPizzaApplication in 0.406 seconds (process running for 0.793)
+15:19:18.802 [restartedMain] INFO  c.epicode.GodfathersPizza.MenuRunner - prova
+15:29:06.446 [restartedMain] INFO  c.e.G.GodfathersPizzaApplication - Starting GodfathersPizzaApplication using Java 17.0.7 with PID 5360 (C:\Users\Luca\eclipse-workspace\m2\s1\g2s1m2\GodfathersPizza\target\classes started by Luca in C:\Users\Luca\eclipse-workspace\m2\s1\g2s1m2\GodfathersPizza)
+15:29:06.448 [restartedMain] INFO  c.e.G.GodfathersPizzaApplication - No active profile set, falling back to 1 default profile: "default"
+15:29:06.470 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+15:29:06.703 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+15:29:06.712 [restartedMain] INFO  c.e.G.GodfathersPizzaApplication - Started GodfathersPizzaApplication in 0.425 seconds (process running for 0.804)
+15:29:06.713 [restartedMain] INFO  c.epicode.GodfathersPizza.MenuRunner - prova
+15:24:15.228 [restartedMain] INFO  c.e.G.GodfathersPizzaApplication - Starting GodfathersPizzaApplication using Java 17.0.7 with PID 9064 (C:\Users\Luca\eclipse-workspace\m2\s1\g2s1m2\GodfathersPizza\target\classes started by Luca in C:\Users\Luca\eclipse-workspace\m2\s1\g2s1m2\GodfathersPizza)
+15:24:15.230 [restartedMain] INFO  c.e.G.GodfathersPizzaApplication - No active profile set, falling back to 1 default profile: "default"
+15:24:15.253 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+15:24:15.521 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+15:24:15.531 [restartedMain] INFO  c.e.G.GodfathersPizzaApplication - Started GodfathersPizzaApplication in 0.488 seconds (process running for 0.903)
+15:26:43.120 [restartedMain] INFO  c.e.G.GodfathersPizzaApplication - Starting GodfathersPizzaApplication using Java 17.0.7 with PID 23228 (C:\Users\Luca\eclipse-workspace\m2\s1\g2s1m2\GodfathersPizza\target\classes started by Luca in C:\Users\Luca\eclipse-workspace\m2\s1\g2s1m2\GodfathersPizza)
+15:26:43.122 [restartedMain] INFO  c.e.G.GodfathersPizzaApplication - No active profile set, falling back to 1 default profile: "default"
+15:26:43.142 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+15:26:43.374 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+15:26:43.383 [restartedMain] INFO  c.e.G.GodfathersPizzaApplication - Started GodfathersPizzaApplication in 0.42 seconds (process running for 0.793)
+15:26:43.384 [restartedMain] INFO  c.epicode.GodfathersPizza.MenuRunner - com.epicode.GodfathersPizza.classes.PizzaMargherita@3e0f8546
+15:27:20.030 [restartedMain] INFO  c.e.G.GodfathersPizzaApplication - Starting GodfathersPizzaApplication using Java 17.0.7 with PID 17676 (C:\Users\Luca\eclipse-workspace\m2\s1\g2s1m2\GodfathersPizza\target\classes started by Luca in C:\Users\Luca\eclipse-workspace\m2\s1\g2s1m2\GodfathersPizza)
+15:27:20.032 [restartedMain] INFO  c.e.G.GodfathersPizzaApplication - No active profile set, falling back to 1 default profile: "default"
+15:27:20.052 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+15:27:20.288 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+15:27:20.297 [restartedMain] INFO  c.e.G.GodfathersPizzaApplication - Started GodfathersPizzaApplication in 0.411 seconds (process running for 0.788)
+15:30:30.675 [restartedMain] INFO  c.e.G.GodfathersPizzaApplication - Starting GodfathersPizzaApplication using Java 17.0.7 with PID 15392 (C:\Users\Luca\eclipse-workspace\m2\s1\g2s1m2\GodfathersPizza\target\classes started by Luca in C:\Users\Luca\eclipse-workspace\m2\s1\g2s1m2\GodfathersPizza)
+15:30:30.677 [restartedMain] INFO  c.e.G.GodfathersPizzaApplication - No active profile set, falling back to 1 default profile: "default"
+15:30:30.698 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+15:30:30.940 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+15:30:30.949 [restartedMain] INFO  c.e.G.GodfathersPizzaApplication - Started GodfathersPizzaApplication in 0.419 seconds (process running for 0.791)
+15:30:47.411 [restartedMain] INFO  c.e.G.GodfathersPizzaApplication - Starting GodfathersPizzaApplication using Java 17.0.7 with PID 21428 (C:\Users\Luca\eclipse-workspace\m2\s1\g2s1m2\GodfathersPizza\target\classes started by Luca in C:\Users\Luca\eclipse-workspace\m2\s1\g2s1m2\GodfathersPizza)
+15:30:47.414 [restartedMain] INFO  c.e.G.GodfathersPizzaApplication - No active profile set, falling back to 1 default profile: "default"
+15:30:47.437 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+15:30:47.679 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+15:30:47.688 [restartedMain] INFO  c.e.G.GodfathersPizzaApplication - Started GodfathersPizzaApplication in 0.426 seconds (process running for 0.786)
+16:06:58.393 [restartedMain] INFO  c.e.G.GodfathersPizzaApplication - Starting GodfathersPizzaApplication using Java 17.0.7 with PID 11784 (C:\Users\Luca\eclipse-workspace\m2\s1\g2s1m2\GodfathersPizza\target\classes started by Luca in C:\Users\Luca\eclipse-workspace\m2\s1\g2s1m2\GodfathersPizza)
+16:06:58.395 [restartedMain] INFO  c.e.G.GodfathersPizzaApplication - No active profile set, falling back to 1 default profile: "default"
+16:06:58.422 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+16:06:58.721 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+16:06:58.733 [restartedMain] INFO  c.e.G.GodfathersPizzaApplication - Started GodfathersPizzaApplication in 0.544 seconds (process running for 1.416)
+16:15:08.258 [restartedMain] INFO  c.e.G.GodfathersPizzaApplication - Starting GodfathersPizzaApplication using Java 17.0.7 with PID 23304 (C:\Users\Luca\eclipse-workspace\m2\s1\g2s1m2\GodfathersPizza\target\classes started by Luca in C:\Users\Luca\eclipse-workspace\m2\s1\g2s1m2\GodfathersPizza)
+16:15:08.260 [restartedMain] INFO  c.e.G.GodfathersPizzaApplication - No active profile set, falling back to 1 default profile: "default"
+16:15:08.280 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+16:15:08.517 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+16:15:08.527 [restartedMain] INFO  c.e.G.GodfathersPizzaApplication - Started GodfathersPizzaApplication in 0.418 seconds (process running for 0.811)
+16:15:57.342 [restartedMain] INFO  c.e.G.GodfathersPizzaApplication - Starting GodfathersPizzaApplication using Java 17.0.7 with PID 11316 (C:\Users\Luca\eclipse-workspace\m2\s1\g2s1m2\GodfathersPizza\target\classes started by Luca in C:\Users\Luca\eclipse-workspace\m2\s1\g2s1m2\GodfathersPizza)
+16:15:57.344 [restartedMain] INFO  c.e.G.GodfathersPizzaApplication - No active profile set, falling back to 1 default profile: "default"
+16:15:57.363 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+16:15:57.593 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+16:15:57.603 [restartedMain] INFO  c.e.G.GodfathersPizzaApplication - Started GodfathersPizzaApplication in 0.413 seconds (process running for 0.867)
+16:16:04.000 [restartedMain] INFO  c.e.G.GodfathersPizzaApplication - Starting GodfathersPizzaApplication using Java 17.0.7 with PID 14424 (C:\Users\Luca\eclipse-workspace\m2\s1\g2s1m2\GodfathersPizza\target\classes started by Luca in C:\Users\Luca\eclipse-workspace\m2\s1\g2s1m2\GodfathersPizza)
+16:16:04.002 [restartedMain] INFO  c.e.G.GodfathersPizzaApplication - No active profile set, falling back to 1 default profile: "default"
+16:16:04.024 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+16:16:04.267 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+16:16:04.277 [restartedMain] INFO  c.e.G.GodfathersPizzaApplication - Started GodfathersPizzaApplication in 0.423 seconds (process running for 0.807)
+16:17:09.372 [restartedMain] INFO  c.e.G.GodfathersPizzaApplication - Starting GodfathersPizzaApplication using Java 17.0.7 with PID 17472 (C:\Users\Luca\eclipse-workspace\m2\s1\g2s1m2\GodfathersPizza\target\classes started by Luca in C:\Users\Luca\eclipse-workspace\m2\s1\g2s1m2\GodfathersPizza)
+16:17:09.374 [restartedMain] INFO  c.e.G.GodfathersPizzaApplication - No active profile set, falling back to 1 default profile: "default"
+16:17:09.393 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+16:17:09.631 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+16:17:09.639 [restartedMain] INFO  c.e.G.GodfathersPizzaApplication - Started GodfathersPizzaApplication in 0.412 seconds (process running for 0.798)
