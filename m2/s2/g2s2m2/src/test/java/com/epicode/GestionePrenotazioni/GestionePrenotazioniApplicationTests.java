@@ -12,9 +12,9 @@ class GestionePrenotazioniApplicationTests {
 	void contextLoads() {
 		String s = "cipolla";
 		if (0<1) {
-			 s = "suca";
+			 s = "tizio";
 		}
-		assertThat(s).isEqualTo("suca");
+		assertThat(s).isEqualTo("tizio");
 	}
 
 }
