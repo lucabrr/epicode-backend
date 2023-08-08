@@ -62,8 +62,13 @@ public class DispositivoService {
 			
 		}
 		public String cancellaDispositivo(long id) {
-				dispositivoDAO.deleteById(id);
+				if(!dispositivoDAO.existsById(id)) {
+					throw new EntityNotFoundException("dispositivo non trovato");
+				}
+				Optional<Dispositivo>optionalD = dispositivoDAO.findById(id);
+				Dispositivo d = optionalD.get();
+				dispositivoDAO.delete(d);
 				return "dispositivo cancellato";
-			
+		
 		}
 }

@@ -73,15 +73,11 @@ public class DispositivoController {
 		}
 	}
 	
-//	@DeleteMapping("/cancella")
-//	@PreAuthorize("hasRole('ADMIN')")
-//	public ResponseEntity<?> deleteDispositivo(@RequestParam long id){
-//		try {
-//		String mex = ds.cancellaDispositivo(id);
-//			return new ResponseEntity<String>(mex,HttpStatus.OK);
-//		} catch (Exception e) {
-//			return new ResponseEntity<String>(e.getMessage(),HttpStatus.BAD_REQUEST);
-//		}
-//	}
+	@DeleteMapping("/cancella")
+	@PreAuthorize("hasRole('ADMIN')")
+	public ResponseEntity<String> deleteDispositivo(@RequestParam long id){
+		String mex = ds.cancellaDispositivo(id);
+		return new ResponseEntity<String>(mex,HttpStatus.OK);
+	}
 	
 }
