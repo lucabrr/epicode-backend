@@ -5,7 +5,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Scope;
 
 import com.epicode.gestioneDispositivi.classes.Dispositivo;
-import com.epicode.gestioneDispositivi.classes.Status;
+import com.epicode.gestioneDispositivi.classes.EStatus;
 
 @Configuration
 public class DispositivoConfig {
@@ -13,7 +13,6 @@ public class DispositivoConfig {
 	@Scope("prototype")
 	Dispositivo dispositivo() {
 		Dispositivo d = new Dispositivo();
-		d.setStatus(Status.DISPONIBILE);
 		return d;
 	}
 	

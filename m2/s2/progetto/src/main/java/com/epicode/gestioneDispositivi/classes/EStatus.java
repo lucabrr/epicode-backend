@@ -1,6 +1,6 @@
 package com.epicode.gestioneDispositivi.classes;
 
-public enum Status {
+public enum EStatus {
 	
 	DISPONIBILE,
 	IN_MANUTENZIONE,
